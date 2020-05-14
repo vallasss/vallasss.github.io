@@ -4753,7 +4753,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	width:calc(100% - 65px);
 	height:calc(100% - 25px);
 	z-index:-1;
-	background:rgba(255,255,255,0.07);
+	background:rgba(255,124,180,0.07);
 	border-left:4px solid var(--hover);
 }
 
