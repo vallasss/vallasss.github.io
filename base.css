@@ -277,9 +277,9 @@ TABLE OF CONTENTS
 :root {
 	/*Primary*/
 	--lv1: #00000f;
-	--accent: #1973d3;
+	--accent: #f57ac0;
 	--hover: #135193;
-	--bg: url('https://i.imgur.com/GdnbuVj.jpg');
+	--bg: url('https://i.imgur.com/CGZtsYL.jpg');
 	--tooltip-color:#f6f6f7;
 	--bg-opacity: 0.25;
 	--bg-fade: 80%;
@@ -300,7 +300,7 @@ TABLE OF CONTENTS
 	--streaming:var(--twitch-purple);
 
 	/*Branding*/
-	--theme-name: 'Midnight UI';
+	--theme-name: 'nya!';
 	--theme-version: '3.2.2';
 
 	/*Discord Vars*/
