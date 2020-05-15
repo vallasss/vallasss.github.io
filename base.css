@@ -2506,7 +2506,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 #app-mount .avatar-3uk_u9,
 #app-mount .channel-2QD9_O .wrapper-3t9DeA,
 .member-3-YXUe .wrapper-3t9DeA {
-	width: 50000px !important;
+	width: 100px !important;
 	height: 100px !important;
 }
 
@@ -2573,8 +2573,8 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .placeholderAvatar-damqh6 {
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 }
 
 .placeholderAvatar-damqh6 {
