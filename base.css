@@ -2207,8 +2207,8 @@ html.theme-light body.bd-minimal #app-mount::before {
 
 .avatarContainer-2inGBK {
 	border-radius:var(--user-roundness);
-	width:100px;
-	height:100px;
+	width:50px;
+	height:50px;
 }
 
 .avatar-3bWpYy,
@@ -2506,7 +2506,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 #app-mount .avatar-3uk_u9,
 #app-mount .channel-2QD9_O .wrapper-3t9DeA,
 .member-3-YXUe .wrapper-3t9DeA {
-	width: 100px !important;
+	width: 50000px !important;
 	height: 100px !important;
 }
 
