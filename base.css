@@ -1354,7 +1354,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	position: absolute;
 	top: -2px;
 	right: 0;
-	height:100px;
+	height:50px;
 	padding-left: 30px;
 	z-index: 1;
 	display:flex;
@@ -1363,8 +1363,8 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .panels-j1Uci_ .container-3baos1:not(.powercord-spotify) .avatarWrapper-2yR4wp .wrapper-3t9DeA {
-	width: 100px !important;
-	height: 100px !important;
+	width: 50px !important;
+	height: 50px !important;
 }
 
 .toolbar-1t6TWx {
@@ -8162,8 +8162,8 @@ body .bd-toasts {
 }
 
 .listAvatar-1NlAhb {
-	height:100px;
-	width:100px;
+	height:50px;
+	width:50px;
 }
 
 .guildNick-3uAm3i:empty::after {
@@ -10393,8 +10393,8 @@ header + .peopleListItem-2nzedh {
 }
 
 #app-mount .wrapper-3t9DeA[style*="width: 32px;"] rect {
-	width: 32px;
-	height: 32px;
+	width: 100px;
+	height: 100px;
 	overflow: visible;
 	x: -14.5;
 	y: -17;
